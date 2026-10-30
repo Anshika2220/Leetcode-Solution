@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
