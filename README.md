@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0242-valid-anagram) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
