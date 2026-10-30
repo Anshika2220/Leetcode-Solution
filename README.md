@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
