@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
