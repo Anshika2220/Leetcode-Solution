@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Union-Find
 |  |
 | ------- |
