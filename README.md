@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
