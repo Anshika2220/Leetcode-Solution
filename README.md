@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
