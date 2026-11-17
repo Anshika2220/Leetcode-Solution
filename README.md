@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anshika2220/Leetcode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
