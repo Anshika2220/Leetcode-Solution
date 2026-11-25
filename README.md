@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anshika2220/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3934-smallest-unique-subarray](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anshika2220/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3934-smallest-unique-subarray](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -331,4 +334,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Anshika2220/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
